@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Restaurant Search</string>
+    <string name="restaurant_json_file">restaurants.json</string>
+    <string name="menus_json_file">menu.json</string>
+
+    <string name="menu_home">Home</string>
+    <string name="home_title">Restaurants Search</string>
+    <!--Validation : Login-->
+
+
+    <!--Change Password-->
+
+    <!--map and place api key-->
+
+    <string name="channel_name">Architecture</string>
+    <string name="channel_description">Architecture Notification</string>
+    <string name="channel_id">1</string>
+    <string name="title">Title</string>
+
+</resources>
